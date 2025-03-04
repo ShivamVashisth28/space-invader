@@ -1,4 +1,4 @@
-#  Space Shooter Game
+#  Space Invader Game
 
 A **classic arcade-style space shooter** built with **Pygame**, where you control a spaceship, shoot enemy ships, and survive as long as possible.
 
